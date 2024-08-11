@@ -1,5 +1,9 @@
 # attack-capital-assignment
 
+## Assignment Demo
+View the demo of the application here: [Demo](https://www.loom.com/share/b5f4e5aecf614dfea15decfcae424d4d?sid=4560c393-f149-43ba-8872-979bbc365ddd).
+
+
 ## Features
 
 - **User Authentication**: Secure login and registration with JWT for handling access control.
